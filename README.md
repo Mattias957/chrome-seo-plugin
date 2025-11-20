@@ -61,8 +61,8 @@ activeTab - Läser nuvarande flik
 downloads - Laddar ner bilder
 
 9. Scripting - Kör analysskript
-🔒 Säkerhet & Integritet
-✅ Helt lokalt - ingen data skickas till servrar
-✅ Ingen tracking eller analytics
-✅ Inget konto krävs
-✅ Open source - all kod synlig
+Säkerhet & Integritet
+Helt lokalt - ingen data skickas till servrar
+Ingen tracking eller analytics
+Inget konto krävs
+Open source - all kod synlig
